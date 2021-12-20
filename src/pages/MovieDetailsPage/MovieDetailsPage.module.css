@@ -1,0 +1,71 @@
+.wrapper {
+  display: flex;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.goBackBtn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.movieDescr {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.movieImg {
+  max-width: 350px;
+  margin-left: 30px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.score {
+  margin-bottom: 10px;
+}
+
+.overviewTitle {
+  margin-bottom: 10px;
+}
+
+.overview {
+  margin-bottom: 10px;
+  max-width: 800px;
+}
+
+.genreTitle {
+  margin-bottom: 10px;
+}
+
+.genre {
+  margin-bottom: 10px;
+}
+
+.movieDescrAbout {
+  border-radius: 2px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+}
+
+.additionalList {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 2px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.additionalItem {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: normal;
+}

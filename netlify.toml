@@ -1,0 +1,8 @@
+[build]
+publish ="build"
+
+[[redirected]]
+
+from ="/*"
+to="/index.html"
+status= 200

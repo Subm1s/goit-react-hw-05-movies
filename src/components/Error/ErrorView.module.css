@@ -1,0 +1,9 @@
+.errorWrapper {
+  margin-top: 50px;
+}
+
+.errorDesc {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
